@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Moje 練習網站';
 
-  myname = '徐翌峰';
+  myname = '李季宜';
 
 
 }
